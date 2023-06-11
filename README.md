@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Ritika091&show_icons=true&count_private=true&border_radius=5.5&theme=algolia"/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritika091&theme=algolia&border_radius=5.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritika091&theme=dark&border_radius=5.5)](https://git.io/streak-stats)
 
 
 
