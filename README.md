@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+<img align="right" alt="GIF" height="200px" src="https://thumbs.dreamstime.com/b/isometric-d-illustration-girl-programmer-coding-project-using-computer-girl-programmer-web-engineer-freelancer-work-133756815.jpg" />
 
 - 🔭 I’m currently working on my MERN skills
 - 🌱 I’m currently exploring backend
