@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 -->
+<hr>
 <img align="right" alt="GIF" height="200px" src="https://thumbs.dreamstime.com/b/isometric-d-illustration-girl-programmer-coding-project-using-computer-girl-programmer-web-engineer-freelancer-work-133756815.jpg" />
 
 - 🔭 I’m currently working on my MERN skills
 - 🌱 I’m currently exploring backend
 - 👯 I’m looking to collaborate on full stack projects
-- 🤔 I’m looking for help with ...
+<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ReactJs, Node, JAVA
 - 📫 Lets connect: <br/>   
 <a href="https://github.com/Ritika091" target="_blank">
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
    <a href="https://www.instagram.com/ritika_ss09/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
-
+<hr>
 ## 🧰 Languages/Systems/Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
+<hr>
 ## 📈 GitHub Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ritika091&show_icons=true&count_private=true&border_radius=5.5&theme=algolia"/>
