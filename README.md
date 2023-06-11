@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
 <hr>
-### 🧰 Languages/Systems/Tools  
+
+## 🧰 Languages/Systems/Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -48,7 +49,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 <hr>
-### 📈 GitHub Stats :
+
+## 📈 GitHub Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ritika091&show_icons=true&count_private=true&border_radius=5.5&theme=algolia"/>
 
