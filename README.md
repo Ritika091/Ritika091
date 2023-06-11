@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my MERN skills
 - 🌱 I’m currently exploring backend
 - 👯 I’m looking to collaborate on full stack projects
-<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ReactJs, Node, JAVA
 - 📫 Lets connect: <br/>   
 <a href="https://github.com/Ritika091" target="_blank">
