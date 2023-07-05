@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about ReactJs, Node, JAVA
 - 📫 Lets connect: <br/>
-- <a href="https://github.com/Ritika091" target="_blank">
+ <a href="https://github.com/Ritika091" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/ritika-saxena-7721b21b4/" target="_blank">
